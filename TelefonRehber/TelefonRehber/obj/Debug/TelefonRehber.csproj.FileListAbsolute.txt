@@ -1,0 +1,10 @@
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\bin\Debug\TelefonRehber.exe.config
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\bin\Debug\TelefonRehber.exe
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\bin\Debug\TelefonRehber.pdb
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.csprojAssemblyReference.cache
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.Properties.Resources.resources
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.csproj.GenerateResource.cache
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.csproj.CoreCompileInputs.cache
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.exe
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.pdb
+C:\Users\BUSE NUR\source\repos\TelefonRehber\TelefonRehber\obj\Debug\TelefonRehber.SteelBlue.resources
